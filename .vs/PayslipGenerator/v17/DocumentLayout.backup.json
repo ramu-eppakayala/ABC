@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ram\\Desktop\\ABC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E142E05-437A-4D15-8EF2-32A9D76A1AF9}|PayslipGenerator.csproj|C:\\Users\\ram\\Desktop\\ABC\\payslip.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E142E05-437A-4D15-8EF2-32A9D76A1AF9}|PayslipGenerator.csproj|solutionrelative:payslip.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E142E05-437A-4D15-8EF2-32A9D76A1AF9}|PayslipGenerator.csproj|c:\\users\\ram\\desktop\\abc\\payslip.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5E142E05-437A-4D15-8EF2-32A9D76A1AF9}|PayslipGenerator.csproj|solutionrelative:payslip.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E142E05-437A-4D15-8EF2-32A9D76A1AF9}|PayslipGenerator.csproj|C:\\Users\\ram\\Desktop\\ABC\\styles\\payslipstyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5E142E05-437A-4D15-8EF2-32A9D76A1AF9}|PayslipGenerator.csproj|solutionrelative:styles\\payslipstyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Payslip.aspx",
+              "DocumentMoniker": "C:\\Users\\ram\\Desktop\\ABC\\Payslip.aspx",
+              "RelativeDocumentMoniker": "Payslip.aspx",
+              "ToolTip": "C:\\Users\\ram\\Desktop\\ABC\\Payslip.aspx",
+              "RelativeToolTip": "Payslip.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-02T07:38:26.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PayslipStyles.css",
+              "DocumentMoniker": "C:\\Users\\ram\\Desktop\\ABC\\Styles\\PayslipStyles.css",
+              "RelativeDocumentMoniker": "Styles\\PayslipStyles.css",
+              "ToolTip": "C:\\Users\\ram\\Desktop\\ABC\\Styles\\PayslipStyles.css",
+              "RelativeToolTip": "Styles\\PayslipStyles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-02T07:37:56.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Payslip.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ram\\Desktop\\ABC\\Payslip.aspx.cs",
+              "RelativeDocumentMoniker": "Payslip.aspx.cs",
+              "ToolTip": "C:\\Users\\ram\\Desktop\\ABC\\Payslip.aspx.cs",
+              "RelativeToolTip": "Payslip.aspx.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAAwNoAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T05:34:11.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

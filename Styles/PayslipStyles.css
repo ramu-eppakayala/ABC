@@ -1,0 +1,254 @@
+/* General Styles */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+}
+
+#payslipContainer {
+    width: 800px;
+    margin: 20px auto;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Header Section Styles */
+#headerSection {
+    display: flex;
+    border-bottom: 2px solid #0c5ab3;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+}
+
+#logoSection {
+    width: 30%;
+}
+
+#logoSection img {
+    max-width: 100%;
+    height: auto;
+}
+
+#companyDetailsSection {
+    width: 70%;
+    text-align: right;
+}
+
+#companyDetailsSection h2 {
+    color: #0c5ab3;
+    margin: 0;
+    font-size: 20px;
+}
+
+#companyDetailsSection p {
+    margin: 5px 0;
+    color: #333;
+    font-size: 14px;
+}
+
+/* Employee Section Styles */
+#employeeSection {
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+#employeeSection table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#employeeSection td {
+    padding: 8px;
+    font-size: 14px;
+}
+
+#employeeSection .label {
+    font-weight: bold;
+    color: #555;
+}
+
+#employeeSection input[type="text"] {
+    width: 90%;
+    padding: 4px;
+    border: 1px solid #ccc;
+}
+
+/* Financial Section Styles */
+#financialSection {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+/* Earnings Section Styles */
+#earningsSection {
+    width: 60%;
+    padding-right: 10px;
+}
+
+#earningsSection h3 {
+    color: #0c5ab3;
+    margin-top: 0;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 5px;
+}
+
+#earningsSection table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#earningsSection th {
+    background-color: #f5f5f5;
+    padding: 8px;
+    text-align: left;
+    font-size: 14px;
+}
+
+#earningsSection td {
+    padding: 8px;
+    font-size: 14px;
+    border-bottom: 1px solid #eee;
+}
+
+#earningsSection .label {
+    font-weight: bold;
+    color: #555;
+}
+
+#earningsSection input[type="text"] {
+    width: 90%;
+    padding: 4px;
+    border: 1px solid #ccc;
+}
+
+#earningsSection .totalRow {
+    font-weight: bold;
+    background-color: #f9f9f9;
+}
+
+/* Deductions Section Styles */
+#deductionsSection {
+    width: 40%;
+    padding-left: 10px;
+}
+
+#deductionsSection h3 {
+    color: #0c5ab3;
+    margin-top: 0;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 5px;
+}
+
+#deductionsSection table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#deductionsSection td {
+    padding: 8px;
+    font-size: 14px;
+    border-bottom: 1px solid #eee;
+}
+
+#deductionsSection .label {
+    font-weight: bold;
+    color: #555;
+}
+
+#deductionsSection input[type="text"] {
+    width: 90%;
+    padding: 4px;
+    border: 1px solid #ccc;
+}
+
+#deductionsSection .totalRow {
+    font-weight: bold;
+    background-color: #f9f9f9;
+}
+
+/* Net Pay Section Styles */
+#netPaySection {
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    padding: 10px;
+    background-color: #f9f9f9;
+}
+
+#netPaySection table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#netPaySection td {
+    padding: 8px;
+    font-size: 16px;
+}
+
+#netPaySection .label {
+    font-weight: bold;
+    color: #0c5ab3;
+    width: 150px;
+}
+
+/* Bank Details Section Styles */
+#bankDetailsSection {
+    margin-bottom: 20px;
+    border: 1px solid #ffff;
+    padding: 10px;
+}
+
+#bankDetailsSection table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#bankDetailsSection td {
+    padding: 8px;
+    font-size: 14px;
+}
+
+#bankDetailsSection .label {
+    font-weight: bold;
+    color: #555;
+}
+
+#bankDetailsSection input[type="text"] {
+    width: 90%;
+    padding: 4px;
+    border: 1px solid #ccc;
+}
+
+/* Footer Section Styles */
+#footerSection {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 12px;
+    color: #777;
+    font-style:normal;
+    border-top: 1px solid #eee;
+    padding-top: 10px;
+}
+
+/* Action Section Styles */
+#actionSection {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.btn-generate {
+    background-color: #0c5ab3;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 4px;
+}
+
+.btn-generate:hover {
+    background-color: #094082;
+} 
